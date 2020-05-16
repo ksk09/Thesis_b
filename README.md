@@ -1,20 +1,20 @@
-%卒業論文
+# 卒業論文
 このフォルダでは卒論で使用したtexファイルやソースコードが含まれている.
 
-%doc
+- doc
 卒論本文, プレゼン資料を含むtexファイルが保存されている.
 
-%Src
+- Src
 本研究で行った実験で用いたソースコードがまとめられている.使用した言語はpython.
 
-%Src/dataset
+- Src/dataset
 本実験で使用したmovielensのデータセットが含まれている.
 
-%Src/exp
+- Src/exp
 実験結果が保存されている.
 
-%Src/evaluation
+- Src/evaluation
 評価に用いられる
 
-%Src/module
+- Src/module
 推薦モデルの構築に用いられる
