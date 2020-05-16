@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}はじめに}{3}
+\contentsline {subsection}{\numberline {1.1}研究背景}{3}
+\contentsline {subsection}{\numberline {1.2}本論文の目的}{3}
+\contentsline {subsection}{\numberline {1.3}本論文の構成}{3}
+\contentsline {section}{\numberline {2}多様な関係を表すグラフを用いた推薦}{5}
+\contentsline {subsection}{\numberline {2.1}HINを用いた推薦}{5}
+\contentsline {subsection}{\numberline {2.2}ハイパーグラフを用いた推薦}{5}
+\contentsline {section}{\numberline {3}提案手法}{6}
+\contentsline {subsection}{\numberline {3.1}ハイパーグラフ}{6}
+\contentsline {subsection}{\numberline {3.2}RWRモデルによるランキング}{7}
+\contentsline {subsection}{\numberline {3.3}推薦因子}{7}
+\contentsline {subsection}{\numberline {3.4}エッジの種毎に重みを変えた推薦}{8}
+\contentsline {section}{\numberline {4}重みを変えることによる遷移行列の変化}{9}
+\contentsline {section}{\numberline {5}実験}{10}
+\contentsline {subsection}{\numberline {5.1}データセット}{10}
+\contentsline {subsection}{\numberline {5.2}ハイパーグラフの構築}{10}
+\contentsline {subsection}{\numberline {5.3}実験設定}{11}
+\contentsline {subsection}{\numberline {5.4}評価指標}{11}
+\contentsline {subsection}{\numberline {5.5}実験結果}{12}
+\contentsline {subsubsection}{\numberline {5.5.1}推薦因子の寄与分}{12}
+\contentsline {subsubsection}{\numberline {5.5.2}推薦の精度}{14}
+\contentsline {section}{\numberline {6}おわりに}{16}
+\contentsline {section}{\hbox to\@lnumwidth {\hfil }謝辞}{17}
+\contentsline {section}{\hbox to\@lnumwidth {\hfil }文献}{18}

@@ -1,0 +1,48 @@
+\begin{thebibliography}{10}
+
+\bibitem{rec1}
+神嶌敏弘, 推薦システムのアルゴリズム (1). 人工知能学会誌, {\bf 22}-6(2007),
+  826--837.
+
+\bibitem{rec2}
+神嶌敏弘, 推薦システムのアルゴリズム (2). 人工知能学会誌, {\bf 23}-1(2008),
+  89--103.
+
+\bibitem{rec3}
+神嶌敏弘, 推薦システムのアルゴリズム (3). 人工知能学会誌, {\bf 23}-2(2008),
+  248--263.
+
+\bibitem{social}
+B.~Yang et~al, Social collaborative filtering by trust. {\em IEEE transactions
+  on pattern analysis and machine intelligence}, {\bf 39}-8(2016), 1633--1647.
+
+\bibitem{tag}
+Z.~Guan et~al, Document recommendation in social tagging services. {\em {WWW}},
+  2010, 391--400.
+
+\bibitem{HIN}
+C.~Shi et~al, A survey of heterogeneous information network analysis. {\em IEEE
+  Transactions on Knowledge and Data Engineering}, {\bf 29}-1(2016), 17--37.
+
+\bibitem{hyper}
+D.~Zhou, J.~Huang and B.~Sch{\"o}lkopf, Learning with hypergraphs: Clustering,
+  classification, and embedding. {\em Advances in neural information processing
+  systems}, 2007, 1601--1608.
+
+\bibitem{Hete}
+C.~Luo et~al, Hete-cf: Social-based collaborative filtering recommendation
+  using heterogeneous relations. {\em 2014 IEEE International Conference on
+  Data Mining}, 2014, 917--922.
+
+\bibitem{MRH}
+S.~Tan et~al, Using rich social media information for music recommendation via
+  hypergraph model. {\em ACM Transactions on Multimedia Computing,
+  Communications, and Applications}, {\bf 7}-1(2011), 22.
+
+\bibitem{rwr}
+I.~Konstas, V.~Stathopoulos and J.~M. Jose, On social networks and
+  collaborative recommendation. {\em Proceedings of the 32nd international ACM
+  SIGIR conference on Research and development in information retrieval}, 2009,
+  195--202.
+
+\end{thebibliography}
